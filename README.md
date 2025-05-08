@@ -20,7 +20,7 @@ Bu proje, bir yüz görüntüsü üzerinde yüz, göz, burun ve ağız gibi teme
 
 Aşağıda, uygulamanın çıktı örneği yer almaktadır:
 
-![Örnek Görsel](foto/yüzz.png)
+![Örnek Görsel](yüzz.png)
 
 ## Kurulum (Google Colab için)
 
