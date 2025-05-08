@@ -40,9 +40,6 @@ Aşağıdaki dosyalar yüz ve yüz bileşenlerini tanımak için gereklidir:
 | `haarcascade_mcs_nose.xml`            | ❗ Manuel olarak indirilmeli |
 | `haarcascade_mcs_mouth.xml`           | ❗ Manuel olarak indirilmeli |
 
-Aşağıdaki kodla bu dosyaları indirebilirsiniz:
-!wget https://raw.githubusercontent.com/opencv/opencv_contrib/master/modules/face/data/cascades/haarcascade_mcs_nose.xml
-!wget https://raw.githubusercontent.com/opencv/opencv_contrib/master/modules/face/data/cascades/haarcascade_mcs_mouth.xml
 
 
 
